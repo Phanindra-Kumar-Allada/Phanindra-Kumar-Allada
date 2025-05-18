@@ -93,12 +93,10 @@
 ### 📫 How to Reach Me
 - ✉️ phanindrakumarallada@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/phanindra-kumar-allada/)  
+-->
 <!-- Optional personal site if available -->
 <!-- 🌐 [Portfolio](https://your-portfolio-link.com) -->
 
----
-
--->
 
 <!--
 <p align="left">

@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm @Phanindra Kumar Allada</h1>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Phanindra-Kumar-Allada&label=Profile+Views&color=0e75b6&style=flat" alt="Phanindra-Kumar-Allada" />
 </p>
-
+-->
 ---
 
 🎯 I’m a **Robotics & Software Engineer** driven by a passion for real-time autonomy, sensor fusion, and intelligent control systems. I love building things that think, move, and adapt to the world around them.

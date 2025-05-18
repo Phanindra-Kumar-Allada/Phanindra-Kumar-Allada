@@ -46,21 +46,8 @@
 -->
 
 ### 💬 Ask Me About
-- ROS2 • C++ • Python • PyTorch • SLAM • Computer Vision  
-- Multi-Sensor Fusion • Real-Time Systems • Path Planning • Docker
+<!--### 🛠️ Languages and Tools-->
 
----
-
-### 📫 How to Reach Me
-- ✉️ phanindrakumarallada@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/phanindra-kumar-allada/)  
-<!-- Optional personal site if available -->
-<!-- 🌐 [Portfolio](https://your-portfolio-link.com) -->
-
----
-
-### 🛠️ Languages and Tools
-### 🛠️ Languages and Tools
 
 <p align="left">
   <!-- Core Languages -->
@@ -99,6 +86,18 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
 </p>
+
+---
+
+### 📫 How to Reach Me
+- ✉️ phanindrakumarallada@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/phanindra-kumar-allada/)  
+<!-- Optional personal site if available -->
+<!-- 🌐 [Portfolio](https://your-portfolio-link.com) -->
+
+---
+
+
 
 <!--
 <p align="left">

@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/-Jetson-76B900?logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
 </p>
--->
+
 ---
 
 ### 🏆 GitHub Stats
@@ -106,7 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Phanindra-Kumar-Allada&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phanindra-Kumar-Allada&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ---
-
 ### 🚀 Let’s build something autonomous and intelligent, together!

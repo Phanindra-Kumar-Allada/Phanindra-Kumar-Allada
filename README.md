@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm @Phanindra Kumar Allada</h1>
 
-<p align="left">
+<p align="center">
   <a href="mailto:phanindrakumarallada@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/phanindra-kumar-allada/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Optional: Add your GitHub profile link -->
-  <a href="https://github.com/Phanindra-Kumar-Allada" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://scholar.google.com/citations?user=0Q_CsTgAAAAJ&hl=en&authuser=1" target="blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
-  <!-- Optional: Add a personal website if you have one -->
-  <!-- <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
+
 
 
 <!--

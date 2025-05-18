@@ -89,6 +89,7 @@
 
 ---
 
+<!-- 
 ### 📫 How to Reach Me
 - ✉️ phanindrakumarallada@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/phanindra-kumar-allada/)  
@@ -97,7 +98,7 @@
 
 ---
 
-
+-->
 
 <!--
 <p align="left">

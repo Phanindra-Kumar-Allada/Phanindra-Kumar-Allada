@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/phanindra-kumar-allada/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://scholar.google.com/citations?user=0Q_CsTgAAAAJ&hl=en&authuser=1" target="blank">
+  <a href="https://scholar.google.com/citations?user=0Q_CsTgAAAAJ&hl=en&authuser=1" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </p>

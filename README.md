@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Phanindra-Kumar-Allada</h1>
+<h1 align="center">Hi 👋, I'm @Phanindra Kumar Allada</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Phanindra-Kumar-Allada&label=Profile+Views&color=0e75b6&style=flat" alt="Phanindra-Kumar-Allada" />
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌟 Featured Projects
+<!--### 🌟 Featured Projects
 
 - 🚀 **[Neural A* Path Planning](https://github.com/Phanindra-Kumar-Allada/NeuralAstar_PathPlanning)**  
   _Hybrid planner that combines A* with a learned cost function to optimize navigation in dynamic environments_
@@ -27,8 +27,8 @@
 
 - 🍎 **[FruityVision](https://github.com/Phanindra-Kumar-Allada/FruityVision)**  
   _An edge-deployable fruit classifier built for smart sorting in industrial automation setups_
-
 ---
+-->
 
 ### 💬 Ask Me About
 - ROS2 • C++ • Python • PyTorch • SLAM • Computer Vision  

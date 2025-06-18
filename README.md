@@ -21,7 +21,7 @@
 -->
 ---
 
-🎯 I’m a **Robotics & Software Engineer** driven by a passion for real-time autonomy, sensor fusion, and intelligent control systems. I love building things that think, move, and adapt to the world around them.
+🎯 I’m a **ADAS / Robotics Software Engineer** driven by a passion for real-time autonomy, sensor fusion, and intelligent control systems. I love building things that think, move, and adapt to the world around them.
 
 ---
 
